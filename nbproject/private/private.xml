@@ -7,12 +7,29 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/PROJECTS/ARDUINO/ComtorAduinoSerial/CommandManagementTask.cpp</file>
-            <file>file:/PROJECTS/ARDUINO/ComtorAduinoSerial/main.cpp</file>
-            <file>file:/PROJECTS/ARDUINO/ComtorAduinoSerial/Task.cpp</file>
-            <file>file:/PROJECTS/ARDUINO/ComtorAduinoSerial/SerialM89Task.cpp</file>
-            <file>file:/PROJECTS/ARDUINO/ComtorAduinoSerial/Millis.cpp</file>
-            <file>file:/PROJECTS/ARDUINO/ComtorAduinoSerial/M95.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/AdvancedSerial.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/CommandManagementTask.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/ExecuteCommand.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/Logger.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/M95.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/Millis.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SMSManagementTask.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SMSMessage.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SendGPSTask.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SerialM89Task.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/Task.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/main.cpp</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/AdvancedSerial.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/CommandManagementTask.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/ExecuteCommand.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/Logger.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/M95.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/Millis.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SMSManagementTask.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SMSMessage.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SendGPSTask.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/SerialM89Task.h</file>
+            <file>file:/MYPROJECTS/ARDUINO/ArduinoAgent/Task.h</file>
         </group>
     </open-files>
 </project-private>

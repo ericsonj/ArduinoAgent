@@ -1,3 +1,9 @@
+/* 
+ * File:   M95.cpp
+ * Author: ericson
+ * 
+ * Created on July 22, 2016, 5:27 PM
+ */
 #include <Arduino.h>
 #include "M95.h"
 #include "Logger.h"

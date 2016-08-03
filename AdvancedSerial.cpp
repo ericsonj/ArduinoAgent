@@ -1,3 +1,9 @@
+/* 
+ * File:   AdvancedSerial.cpp
+ * Author: ericson
+ * 
+ * Created on July 25, 2016, 11:48 AM
+ */
 #include "AdvancedSerial.h"
 #include "Millis.h"
 

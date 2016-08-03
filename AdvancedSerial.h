@@ -1,4 +1,3 @@
-// -*- C++ -*-
 /* 
  * File:   HelperSerial.h
  * Author: ericson
